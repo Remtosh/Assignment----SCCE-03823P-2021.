@@ -13,7 +13,7 @@ $user_data = check_sum($con);
         <title></title>
     </head>
     <body>
-        <h1>Welcome to Vibrant Internet</h1>
+        <h1>Welcome to Vibrant management</h1>
         <br>
         Hello, Username
         <br>
